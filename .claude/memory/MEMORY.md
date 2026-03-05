@@ -4,9 +4,10 @@ Local AI app builder that wraps Claude Code via CLI subprocess. See ./CLAUDE.md 
 
 ## Current State
 
-- **Test count**: TBD
-- **Deploy URL**: localhost:3000 (wrapper app is local-only)
-- **Last major change**: Initial project setup
+- **Test count**: 10 (6 functional + 4 smoke)
+- **Deploy URL**: https://hello-world-app-443521829717.us-east1.run.app
+- **GitHub Repo**: https://github.com/jephtta/hello-world-app
+- **Last major change**: Final review pass — quality, accessibility, docs
 
 ## Topic Files
 

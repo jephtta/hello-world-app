@@ -1,0 +1,6 @@
+{
+  "githubRepo": "https://github.com/jephtta/hello-world-app",
+  "deployUrl": "https://hello-world-app-443521829717.us-east1.run.app",
+  "smokeTestStatus": "PASSING",
+  "builtAt": "2026-03-05T21:30:00.000Z"
+}
